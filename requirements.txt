@@ -1,0 +1,7 @@
+camelot-py[cv]
+threading
+time
+thread
+matplotlib
+tqdm
+opencv-python
