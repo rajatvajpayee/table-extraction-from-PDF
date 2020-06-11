@@ -65,4 +65,4 @@ The image below is the table transformed from camelot space to pdf space.
 
 2. Install Ghostscript from [here](https://www.ghostscript.com/)
 
-3. Implementation done in jupyter notebook and notebook can be found [here](../jupyter/Lattice.html) 
+3. Implementation done in jupyter notebook and notebook can be found [here](./jupyter/Lattice.html) 
